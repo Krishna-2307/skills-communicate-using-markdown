@@ -1,0 +1,13 @@
+# This is H1
+## This is H2 
+### This is H3
+#### This is H4
+##### This is H5
+###### This is H6
+
+
+
+
+
+
+I created a pull request from main comparing it to start-markdown. From there in the empty file I wrote and tested headers in Markdown
