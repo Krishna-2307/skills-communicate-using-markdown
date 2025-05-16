@@ -11,3 +11,6 @@ I created a pull request from main comparing it to start-markdown. From there in
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
